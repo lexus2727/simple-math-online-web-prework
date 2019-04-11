@@ -29,5 +29,6 @@ def square_root(num)
   square_root(81)
 
 def order_of_operation(num1, num2, num3, num4)
-  #Hint:  _num_ + (( __ * __ ) / __ )
+    num1__ + (( num2__ * _num3_ ) / num4__ )
 end
+order_of_operations()
