@@ -14,11 +14,12 @@ end
 division(50, 2)
 
 def multiplication(num1, num2)
-  sum = 
-  
-end
+  sum = num1 * num2
+  end
+  multiplication(4, 30)
 
 def modulo(num1, num2)
+  mod = num1 % num2
 end
 
 def square_root(num)
