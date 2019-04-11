@@ -24,9 +24,10 @@ end
 modulo(34, 5)
 
 def square_root(num)
-  
-end
+  Math.sqrt(num)
+  end
+  square_root(81)
 
 def order_of_operation(num1, num2, num3, num4)
-  #Hint:  __ + (( __ * __ ) / __ )
+  #Hint:  _num_ + (( __ * __ ) / __ )
 end
