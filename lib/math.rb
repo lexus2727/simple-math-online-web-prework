@@ -31,4 +31,4 @@ def square_root(num)
 def order_of_operation(num1, num2, num3, num4)
     num1__ + (( num2__ * _num3_ ) / num4__ )
 end
-order_of_operations(7, 23,)
+order_of_operations(7, 43, 23, 83)
